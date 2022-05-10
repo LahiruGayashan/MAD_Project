@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MAD PROJECT</string>
+    <string name="walk2door">Walk2Door</string>
+    <string name="get_reliable_affordable_services_instantly">Get Reliable Affordable Services instantly</string>
+    <string name="be_a_worker">BE A WORKER</string>
+    <string name="hire_workers">HIRE WORKERS</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="name">Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sing_in">Sing In</string>
+    <string name="next_one">Next</string>
+    <string name="we_care_about_every_small_details_to_sastisfy_your_needs_when_you_use_our_service">We care about every small details to sastisfy your needs when you use our service</string>
+    <string name="give_your_home_a_wow_feeling">Give your home a Wow feeling</string>
+    <string name="next_1">Next</string>
+    <string name="all_our_domestic_workers_have_transparent_background_and_are_well_trained">All our domestic workers have transparent background and are well-trained</string>
+    <string name="security_and_professionalism">Security and Professionalism</string>
+    <string name="next">Next</string>
+    <string name="we_offer_a_3_step_booking_which_solves_your_problem_quickly_and_easily">We offer a 3-step booking which solves your problem quickly and easily</string>
+    <string name="quick_and_easy_booking">Quick and Easy Booking</string>
+    <string name="picture_3">Picrure_3</string>
+    <string name="picture_5">Picture_5</string>
+    <string name="skip">Skip</string>
+</resources>
