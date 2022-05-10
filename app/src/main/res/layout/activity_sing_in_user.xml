@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".sing_in_worker">
+    tools:context=".sing_in_user">
 
     <TextView
         android:id="@+id/textView14"
@@ -36,7 +36,7 @@
         android:layout_width="173dp"
         android:layout_height="59dp"
         android:layout_marginTop="40dp"
-        android:background="@drawable/sign_in"
+        android:background="@drawable/rectangle"
         android:shadowColor="#FF9800"
         android:text="@string/sing_in"
         app:layout_constraintEnd_toEndOf="parent"
@@ -88,6 +88,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/username"
         app:layout_constraintVertical_bias="0.054" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

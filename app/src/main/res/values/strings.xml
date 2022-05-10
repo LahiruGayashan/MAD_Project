@@ -6,7 +6,6 @@
     <string name="hire_workers">HIRE WORKERS</string>
     <string name="payment_details">Payment Details</string>
     <string name="name">Name</string>
-    <string name="forgot_password">Forgot Password?</string>
     <string name="sing_in">Sing In</string>
     <string name="next_one">Next</string>
     <string name="we_care_about_every_small_details_to_sastisfy_your_needs_when_you_use_our_service">We care about every small details to sastisfy your needs when you use our service</string>
@@ -20,4 +19,8 @@
     <string name="picture_3">Picrure_3</string>
     <string name="picture_5">Picture_5</string>
     <string name="skip">Skip</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sing_in_">Sing In</string>
+    <string name="password">password</string>
 </resources>
