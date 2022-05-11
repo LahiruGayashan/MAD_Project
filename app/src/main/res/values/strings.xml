@@ -34,4 +34,10 @@
     <string name="advance">Advance</string>
     <string name="conform">Conform</string>
     <string name="full_payment">Full Payment</string>
+    <string name="card_details">Card Details</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="card_number">Card Number</string>
+    <string name="cvv_number">CVV Number</string>
+    <string name="expire_date">Expire Date</string>
+    <string name="card_holder_name">Card Holder Name</string>
 </resources>
