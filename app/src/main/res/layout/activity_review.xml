@@ -15,7 +15,7 @@
         android:layout_width="225dp"
         android:layout_height="42dp"
         android:layout_marginTop="16dp"
-        android:text="Review"
+        android:text="@string/review"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -28,7 +28,7 @@
         android:layout_width="244dp"
         android:layout_height="53dp"
         android:layout_marginTop="32dp"
-        android:text="What do you think about Janet's work?"
+        android:text="@string/what_do_you_think_about_janet_s_work"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -44,7 +44,8 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView11"
-        app:srcCompat="@drawable/avatar" />
+        app:srcCompat="@drawable/avatar"
+        android:contentDescription="@string/wokerPro" />
 
     <LinearLayout
         android:id="@+id/linearLayout"
@@ -75,12 +76,14 @@
         android:layout_marginTop="36dp"
         android:ems="10"
         android:gravity="start|top"
-        android:hint="Enter you feedback"
+        android:hint="@string/enter_you_feedback"
+        android:hintTextColor="#546E7A"
         android:inputType="textMultiLine"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout"
-        tools:ignore="SpeakableTextPresentCheck" />
+        tools:ignore="SpeakableTextPresentCheck"
+        android:autofillHints="" />
 
     <Button
         android:id="@+id/btnsend"
@@ -88,7 +91,7 @@
         android:layout_height="52dp"
         android:layout_marginTop="48dp"
         android:background="@drawable/button_main"
-        android:text="Send you review"
+        android:text="@string/send_you_review"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextTextMultiLine" />
@@ -100,9 +103,11 @@
         android:ems="10"
         android:gravity="center_horizontal"
         android:inputType="textPersonName"
-        android:text="Very Disatisfied"
+        android:minHeight="48dp"
+        android:text="@string/very_disatisfied"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView3"
+        android:autofillHints="" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

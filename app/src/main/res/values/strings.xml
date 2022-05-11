@@ -23,4 +23,10 @@
     <string name="forgot_password">Forgot Password?</string>
     <string name="sing_in_">Sing In</string>
     <string name="password">password</string>
+    <string name="review">Review</string>
+    <string name="what_do_you_think_about_janet_s_work">What do you think about Janet\'s work?</string>
+    <string name="send_you_review">Send you review</string>
+    <string name="very_disatisfied">Very Disatisfied</string>
+    <string name="enter_you_feedback">Enter you feedback</string>
+    <string name="wokerPro">wokerpro</string>
 </resources>
