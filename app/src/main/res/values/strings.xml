@@ -6,7 +6,6 @@
     <string name="hire_workers">HIRE WORKERS</string>
     <string name="payment_details">Payment Details</string>
     <string name="name">Name</string>
-    <string name="forgot_password">Forgot Password?</string>
     <string name="sing_in">Sing In</string>
     <string name="next_one">Next</string>
     <string name="we_care_about_every_small_details_to_sastisfy_your_needs_when_you_use_our_service">We care about every small details to sastisfy your needs when you use our service</string>
@@ -20,4 +19,25 @@
     <string name="picture_3">Picrure_3</string>
     <string name="picture_5">Picture_5</string>
     <string name="skip">Skip</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sing_in_">Sing In</string>
+    <string name="password">password</string>
+    <string name="review">Review</string>
+    <string name="what_do_you_think_about_janet_s_work">What do you think about Janet\'s work?</string>
+    <string name="send_you_review">Send you review</string>
+    <string name="very_disatisfied">Very Disatisfied</string>
+    <string name="enter_you_feedback">Enter you feedback</string>
+    <string name="wokerPro">wokerpro</string>
+    <string name="paymentdetails">PaymentDetails</string>
+    <string name="balance">Balance</string>
+    <string name="advance">Advance</string>
+    <string name="conform">Conform</string>
+    <string name="full_payment">Full Payment</string>
+    <string name="card_details">Card Details</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="card_number">Card Number</string>
+    <string name="cvv_number">CVV Number</string>
+    <string name="expire_date">Expire Date</string>
+    <string name="card_holder_name">Card Holder Name</string>
 </resources>

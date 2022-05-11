@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MADPROJECT">
         <activity
+            android:name=".paymentDetails"
+            android:exported="false" />
+        <activity
+            android:name=".review"
+            android:exported="false" />
+        <activity
+            android:name=".sing_in_user"
+            android:exported="false" />
+        <activity
             android:name=".import_3"
             android:exported="false" />
         <activity
