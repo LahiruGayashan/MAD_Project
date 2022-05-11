@@ -29,4 +29,9 @@
     <string name="very_disatisfied">Very Disatisfied</string>
     <string name="enter_you_feedback">Enter you feedback</string>
     <string name="wokerPro">wokerpro</string>
+    <string name="paymentdetails">PaymentDetails</string>
+    <string name="balance">Balance</string>
+    <string name="advance">Advance</string>
+    <string name="conform">Conform</string>
+    <string name="full_payment">Full Payment</string>
 </resources>

@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MADPROJECT">
         <activity
+            android:name=".paymentDetails"
+            android:exported="false" />
+        <activity
             android:name=".review"
             android:exported="false" />
         <activity
