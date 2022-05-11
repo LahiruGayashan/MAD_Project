@@ -5,9 +5,6 @@
     android:id="@+id/tvfeedback"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_gravity="bottom"
-    android:textAlignment="viewStart"
-    android:textDirection="locale"
     tools:context=".review">
 
     <TextView
